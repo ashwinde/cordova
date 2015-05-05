@@ -3,4 +3,8 @@
   <PropertyGroup>
     <ReferenceCachePath>C:\Users\I834601\AppData\Local\Temp\aslrbm0o_CordovaApp.Windows_refcache</ReferenceCachePath>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerType>Script</DebuggerType>
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
 </Project>

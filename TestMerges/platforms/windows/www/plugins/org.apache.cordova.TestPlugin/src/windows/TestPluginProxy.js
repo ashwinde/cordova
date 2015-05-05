@@ -30,7 +30,7 @@ var cordova = require('cordova'),
 
 var Test = {
     close: function (win, lose) {
-       console.log ("In Test Plugin close()");
+       new Windows.UI.Popups.MessageDialog("In Test Plugin close(). \n Should have called close() in inAppBrowser").showAsync();
     },
     show: function (win, lose) {
        console.log ("In Test Plugin show()");

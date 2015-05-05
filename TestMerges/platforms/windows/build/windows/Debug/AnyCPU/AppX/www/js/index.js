@@ -35,12 +35,14 @@ var app = {
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
 
+        /* Test */
         var iab = window.open('http://google.com', '_blank', 'location=yes');
+        
+        /* Now, click on the close button on the IAB window */
+        /* It calls the test plugin close() method instead of inappbrowser */
 
-        setTimeout(function () {
-            iab.close(); // WILL CALL test.something.close proxy.
-        },
-        5000);
+
+       
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {

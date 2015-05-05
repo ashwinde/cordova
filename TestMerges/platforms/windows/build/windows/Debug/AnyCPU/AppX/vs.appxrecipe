@@ -20,7 +20,7 @@
     <AppXManifest Include="D:\github\cordova\TestMerges\platforms\windows\build\windows\Debug\AnyCPU\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-05-05T15:21:00.051</Modified>
+      <Modified>2015-05-05T15:45:35.963</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\github\cordova\TestMerges\platforms\windows\www\js\index.js">
       <PackagePath>www\js\index.js</PackagePath>
-      <Modified>2015-05-05T15:22:48.100</Modified>
+      <Modified>2015-05-05T15:24:02.437</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\github\cordova\TestMerges\platforms\windows\www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js">
       <PackagePath>www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js</PackagePath>
@@ -70,7 +70,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\github\cordova\TestMerges\platforms\windows\www\plugins\org.apache.cordova.TestPlugin\src\windows\TestPluginProxy.js">
       <PackagePath>www\plugins\org.apache.cordova.TestPlugin\src\windows\TestPluginProxy.js</PackagePath>
-      <Modified>2015-05-05T15:10:42.379</Modified>
+      <Modified>2015-05-05T15:50:09.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\github\cordova\TestMerges\platforms\windows\www\plugins\org.apache.cordova.TestPlugin\www\test.js">
       <PackagePath>www\plugins\org.apache.cordova.TestPlugin\www\test.js</PackagePath>
@@ -90,7 +90,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\github\cordova\TestMerges\platforms\windows\build\windows\Debug\AnyCPU\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-05-05T15:20:59.885</Modified>
+      <Modified>2015-05-05T15:45:35.891</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
